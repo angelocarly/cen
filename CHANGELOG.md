@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4](https://github.com/angelocarly/cen/compare/v0.0.3...v0.0.4) - 2024-10-21
+
+### Other
+
+- Add very basic buffer bindings
+- Add compute example
+- Rename basic example to empty
+- Make binding call public
+- Add binding call to image
+- Allow binding multiple push descriptors
+- Change logging message from 'kiyo' to 'cen'
+- Use PipelineKey instead of DefaultKey
+
 ## [0.0.3](https://github.com/angelocarly/cen/compare/v0.0.2...v0.0.3) - 2024-10-19
 
 ### Other
